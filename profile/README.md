@@ -65,17 +65,6 @@ Our platform is built with cutting-edge technologies:
 └─────────────────┘ └────────┘ └─────────────┘
 ```
 
-## 📡 API Endpoints
-
-Our comprehensive API provides access to all platform features:
-
-- **Projects**: `GET/POST /api/projects/{projectOID}`
-- **Tables**: `GET/POST/PATCH/DELETE /api/projects/{projectOID}/tables`
-- **Indexes**: `GET/POST/PATCH/DELETE /api/projects/{projectOID}/indexes`
-- **SQL Chat**: `GET/POST /api/projects/{projectOID}/sql-chats`
-- **Schema**: `GET /api/projects/{projectOID}/schema`
-- **Query Execution**: `POST /api/projects/{projectOID}/sql-chats/{chatOID}/execute`
-
 ## 🚀 Getting Started
 
 ### For Users
