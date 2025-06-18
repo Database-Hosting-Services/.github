@@ -75,9 +75,9 @@ Our platform is built with cutting-edge technologies:
 
 ### For Developers
 Check out our repositories:
-- **[API Server](./API)** - Core backend services and APIs
-- **[AI Pipeline](./AI-Agent)** - Schema discovery and AI features
-- **[Documentation](./docs)** - Comprehensive guides and examples
+- **[API Server](https://github.com/Database-Hosting-Services/API)** - Core backend services and APIs
+- **[AI Pipeline](https://github.com/Database-Hosting-Services/AI-Agent-Knowledge-Pipeline)** - Schema discovery and AI features
+- **[Documentation](https://dbhs-api.fly.dev/reference)** - Comprehensive guides and examples
 
 ## 🤝 Community & Contribution
 
@@ -100,13 +100,6 @@ We're building Orbix in the open! Here's how you can get involved:
 - **[Status Page](https://status.orbix.dev)** - Real-time service status
 - **[Community Discord](https://discord.gg/orbix)** - Join our developer community
 - **[Blog](https://blog.orbix.dev)** - Latest updates and technical insights
-
-## 📊 By the Numbers
-
-- 🏢 **50+ Companies** already trust Orbix with their data
-- ⚡ **99.9% Uptime** guaranteed SLA
-- 🔄 **1M+ API Calls** processed daily
-- 🌍 **Global CDN** with edge locations worldwide
 
 ## 📄 License
 
